@@ -11,7 +11,9 @@ https://github.com/Bhavesh5650/ExamEcommerceApp/assets/154861433/6b975d7a-86e7-4
 <h2>Description</h2>
 
 <p>
-  This Is A Ecommerece App
+  • This Is A Ecommerce Application.
+  • This App Contains Multiple Funcationality.
+  • In This App Your Can Select Product And Add To The Cart Or Delete From The Cart.
 </p>
 
 
